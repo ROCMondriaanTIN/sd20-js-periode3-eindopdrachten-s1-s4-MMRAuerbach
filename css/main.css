@@ -1,3 +1,11 @@
 html, body {
     font-family: verdana;
 }
+
+.font-red {
+    color: red;
+}
+
+.bg-green {
+     background-color: green;
+}
